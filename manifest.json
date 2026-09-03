@@ -1,0 +1,13 @@
+{
+  "name": "AT na Prática",
+  "short_name": "AT Prática",
+  "description": "Cronograma educacional de 30 dias para ler, pensar e praticar.",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#f5f2ea",
+  "theme_color": "#103b39",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
